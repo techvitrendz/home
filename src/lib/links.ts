@@ -1,28 +1,28 @@
 export const footerServicesLinks = [
-	{
-		name: "Student Feedback",
-		site: "https://feedback.vitrendz.com",
-	},
+	// {
+	// 	name: "Student Feedback",
+	// 	site: "https://feedback.vitrendz.com",
+	// },
 	{
 		name: "FFCS Planner",
 		site: "https://ffcs.vitrendz.com",
 	},
 	{
 		name: "CGPA Calculator",
-		site: "https://calculator.vitrendz.com",
+		site: "https://cgpa-calculator.vitrendz.in",
 	},
-	{
-		name: "TravelMate",
-		site: "https://travelmate.vitrendz.com",
-	},
-	{
-		name: "Roommate Finder",
-		site: "https://roommate.vitrendz.com",
-	},
-	{
-		name: "Resources",
-		site: "https://resources.vitrendz.com",
-	},
+	// {
+	// 	name: "TravelMate",
+	// 	site: "https://travelmate.vitrendz.com",
+	// },
+	// {
+	// 	name: "Roommate Finder",
+	// 	site: "https://roommate.vitrendz.com",
+	// },
+	// {
+	// 	name: "Resources",
+	// 	site: "https://resources.vitrendz.com",
+	// },
 ];
 
 export const footerCommunityLinks = [

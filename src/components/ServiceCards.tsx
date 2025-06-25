@@ -9,18 +9,18 @@ export function ServiceCards() {
 			site: "https://ffcs.vitrendz.com/",
 			src: "/FFCS.jpg",
 		},
-		{
-			title: "Student Feedback System",
-			button: "Check it out",
-			site: "https://feedback.vitrendz.com/",
-			src: "/Feedback.jpg",
-		},
 		// {
-		// 	title: "CGPA Calculator",
+		// 	title: "Student Feedback System",
 		// 	button: "Check it out",
-		// 	site: "https://calculator.vitrendz.com/",
-		// 	src: "/CGPA.jpg",
+		// 	site: "https://feedback.vitrendz.com/",
+		// 	src: "/Feedback.jpg",
 		// },
+		{
+			title: "CGPA Calculator",
+			button: "Check it out",
+			site: "https://cgpa-calculator.vitrendz.in/",
+			src: "/CGPA.jpg",
+		},
 		// {
 		// 	title: "Roommate Finder",
 		// 	button: "Check it out",
