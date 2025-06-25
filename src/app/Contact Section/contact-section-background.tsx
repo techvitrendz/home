@@ -31,6 +31,13 @@ export function ContactSectionBackground() {
 							>
 								tech.vitrendz@gmail.com
 							</Link>
+							<br />
+							<Link
+								href="mailto:tech.vitrendz@gmail.com"
+								className="text-2xl text-white underline z-50"
+							>
+								support@vitrendz.in
+							</Link>
 						</div>
 					</div>
 				</div>

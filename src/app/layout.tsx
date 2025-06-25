@@ -15,7 +15,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
 	title: "VITrendz",
-	description: "Our description",
+	description:
+		"With over 25,000 followers on Instagram and a growing YouTube community, we simplify technology for everyone. Your trusted source for tech support, tips, and solutions.",
 };
 
 export default function RootLayout({
