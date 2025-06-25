@@ -19,7 +19,7 @@ export function ServiceCards() {
 			title: "CGPA Calculator",
 			button: "Check it out",
 			site: "https://cgpa-calculator.vitrendz.in/",
-			src: "/CGPA.jpg",
+			src: "/cgpa.png",
 		},
 		// {
 		// 	title: "Roommate Finder",
