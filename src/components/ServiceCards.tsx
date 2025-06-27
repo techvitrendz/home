@@ -7,7 +7,7 @@ export function ServiceCards() {
 			title: "FFCS Planner",
 			button: "Check it out",
 			site: "https://ffcs.vitrendz.com/",
-			src: "/FFCS.jpg",
+			src: "/ffcs.png",
 		},
 		// {
 		// 	title: "Student Feedback System",
@@ -19,7 +19,7 @@ export function ServiceCards() {
 			title: "CGPA Calculator",
 			button: "Check it out",
 			site: "https://cgpa-calculator.vitrendz.in/",
-			src: "/cgpa.png",
+			src: "/cgpa_cal.png",
 		},
 		// {
 		// 	title: "Roommate Finder",
