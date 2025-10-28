@@ -6,13 +6,13 @@ export function ServiceCards() {
 		{
 			title: "FFCS Planner",
 			button: "Check it out",
-			site: "https://ffcs.vitrendz.com/",
+			site: "https://ffcs.vitrendz.in/",
 			src: "/ffcs.png",
 		},
 		// {
 		// 	title: "Student Feedback System",
 		// 	button: "Check it out",
-		// 	site: "https://feedback.vitrendz.com/",
+		// 	site: "https://feedback.vitrendz.in/",
 		// 	src: "/Feedback.jpg",
 		// },
 		{
